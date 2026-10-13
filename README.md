@@ -2,6 +2,9 @@
 
 Public privacy-policy website for Bistro Rush, built as a self-contained static HTML page.
 
+- **Developer:** Agara Studio
+- **Application identifier:** `com.agara.bistrorush`
+
 **Website:** https://kresnaputra.github.io/bistro-rush-privacy/
 
 ## Preview locally
