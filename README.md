@@ -24,5 +24,6 @@ The game source and native build artifacts belong to a separate private reposito
 
 ## Maintenance
 
-The policy describes the current version: local progress, no accounts, no analytics, and no
-advertising SDKs. Update the policy and its date if the App's data practices change.
+The policy describes local progress, no accounts or independent gameplay analytics, and
+Google AdMob interstitials in advertising-enabled Android builds. The current iOS build has
+no AdMob configuration. Update the policy and its date if the App's data practices change.
